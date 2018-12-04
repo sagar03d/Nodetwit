@@ -1,0 +1,21 @@
+{
+  "name": "twitter_api",
+  "version": "1.0.0",
+  "description": "This is used for handling my tweets",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "api",
+    "blog"
+  ],
+  "author": "Sagar Dolui",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "twit": "^2.2.9"
+  }
+}
